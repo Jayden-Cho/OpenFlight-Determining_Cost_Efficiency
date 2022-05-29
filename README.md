@@ -14,7 +14,7 @@ Our final project uses the OpenFlights database containing airports and routes w
 - main: File that runs all the necessary tests and algorithms
 
 ## How to run the Program
-- The program can be run by using the following commands
+The program can be run by using the following commands:
 
         make
         ./main
