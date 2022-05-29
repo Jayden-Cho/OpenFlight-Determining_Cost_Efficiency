@@ -1,4 +1,5 @@
-CS 225 Final Project: OpenFlights: Determining Cost Efficiency
+# OpenFlights: Determining Cost Efficiency
+CS 225 Final Project
 
 Team Members: jyjeong2-jdoo2-sc27-sohyunp3
 
